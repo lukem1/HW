@@ -1,5 +1,5 @@
 ##
-## Name: Luke McGuire
+## Name: Luke M
 ## TicTacToe.py
 ##
 ## Purpose: Two player tic tac toe game
@@ -8,7 +8,7 @@
 ##
 ## Certification of Authenticity:
 ##   I certify that this lab is my own work, but I
-##   discussed it with: Giuliana Tosi
+##   discussed it with: 
 ##
 ## Input: Mouse clicks
 ## Output: Graphics

@@ -1,5 +1,5 @@
 ##
-## Name: Luke McGuire
+## Name: Luke M
 ## bumper.py
 ##
 ## Purpose: Bumper cars simulation
@@ -8,7 +8,7 @@
 ##
 ## Certification of Authenticity:
 ##   I certify that this lab is my own work, but I
-##   discussed it with: Giuliana Tosi
+##   discussed it with: 
 ##
 ## Input: Mouse clicks, Keyboard input
 ## Output: Graphics

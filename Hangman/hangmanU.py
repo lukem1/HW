@@ -1,5 +1,5 @@
 ##
-## Name: Luke McGuire
+## Name: Luke M
 ## hangman.py
 ##
 ## Purpose: Hangman Game
@@ -8,7 +8,7 @@
 ##
 ## Certification of Authenticity:
 ##   I certify that this lab is my own work, but I
-##   discussed it with: Giuliana Tosi
+##   discussed it with: 
 ##
 ## Input: Mouse clicks, Keyboard Input
 ## Output: Graphics

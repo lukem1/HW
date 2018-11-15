@@ -1,5 +1,5 @@
 ##
-## Name: Luke McGuire
+## Name: Luke M
 ## vigenere.py
 ##
 ## Purpose: Encode text with the Vignere chiper
@@ -8,7 +8,7 @@
 ##
 ## Certification of Authenticity:
 ##   I certify that this lab is my own work, but I
-##   discussed it with: Giuliana Tosi
+##   discussed it with: 
 ##
 ## Input: Mouse clicks, keyboard input, message, key
 ## Output: Graphics, encoded message

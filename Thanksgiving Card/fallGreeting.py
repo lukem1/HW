@@ -1,5 +1,5 @@
 ##
-## Name: Luke McGuire
+## Name: Luke M
 ## fallGreeting.py
 ##
 ## Purpose: Display an animated Thanksgiving card.
@@ -8,7 +8,7 @@
 ##
 ## Certification of Authenticity:
 ##   I certify that this lab is my own work, but I
-##   discussed it with: Giuliana Tosi
+##   discussed it with: 
 ##
 ## Input: Mouse clicks and keyboard input
 ## Output: Graphics
