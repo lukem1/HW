@@ -1,5 +1,5 @@
 ##
-## Name: Luke McGuire
+## Name: Luke M
 ## 3doorsGame.py
 ##
 
