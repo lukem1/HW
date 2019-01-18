@@ -1,7 +1,9 @@
 # HW
 Programming Homework
 
-Programming I: CSCI 220 + 220 L (CofC: Fall 2018)
+Programming I: CSCI 220 + 220 Lab (CofC: Fall 2018)
+  Language: Python 3
+  All GUI based work requires John Zelle's graphics.py along with Tkinter
   Thanksgiving Card
     Graphical Thanksgiving card
   Vigenere Chipher
@@ -14,3 +16,6 @@ Programming I: CSCI 220 + 220 L (CofC: Fall 2018)
     Graphical hangman game
   Guesses
     Graphical guessing game
+
+Programming II: CSCI 221 (CofC: Spring 2019)
+  Language: Java
