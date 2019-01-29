@@ -19,5 +19,5 @@ Programming I: CSCI 220 + 220 Lab (CofC: Fall 2018)
 
 Programming II: CSCI 221 (CofC: Spring 2019)
   Language: Java
-  TestDice
+  Dice Simulation
       Command line dice simulation and analysis
