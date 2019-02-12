@@ -21,5 +21,3 @@ Programming II: CSCI 221 (CofC: Spring 2019)
   Language: Java
   Dice Simulation
       Command line dice simulation and analysis
-  Enigma Machine
-      Replication of the Enigma Machine in Java
