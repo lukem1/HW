@@ -22,4 +22,6 @@ Programming II: CSCI 221 (CofC: Spring 2019)
   Dice Simulation
       Command line dice simulation and analysis
   Enigma Machine
-      Replication of the Enigma Machine in Java
+      Command line enigma machine simulation
+  wordLadder
+      Command line tool for finding word ladders between two english words
