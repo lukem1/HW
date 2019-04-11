@@ -23,5 +23,5 @@ Programming II: CSCI 221 (CofC: Spring 2019)
       Command line dice simulation and analysis
   Enigma Machine
       Command line enigma machine simulation
-  wordLadder
+  Word Ladder
       Command line tool for finding word ladders between two english words
