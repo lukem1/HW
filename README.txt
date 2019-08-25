@@ -25,3 +25,9 @@ Programming II: CSCI 221 (CofC: Spring 2019)
       Command line enigma machine simulation
   Word Ladder
       Command line tool for finding word ladders between two english words
+
+Intro to Computer Organization and Assembly: CSCI 250 (CofC: Fall 2019)
+  Languages: C and Assembly
+   
+Data Structures and Algorithms: CSCI 230 (CofC: Fall 2019)
+  Language: Java
