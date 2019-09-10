@@ -31,3 +31,7 @@
    
 ## Data Structures and Algorithms: CSCI 230 (CofC: Fall 2019)
   Language: Java
+- List Abstract Data Type (ADT) Implementation (Not Yet Uploaded)
+  - Implementation of an ordered singly linked list that uses arrays as a base data structure
+- List ADT Personalization and Algorithmic Analysis (Not Yet Uploaded)
+  - Further improvment upon the previous assignment with the additon of a palindrome detector/remover and use of algorithmic analysis.
