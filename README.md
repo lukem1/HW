@@ -27,11 +27,16 @@
   - Command line tool for finding word ladders between two english words
 
 ## Intro to Computer Organization and Assembly: CSCI 250 (CofC: Fall 2019)
-  Languages: C and Assembly
+  Languages: C and MIPS32 Assembly
    
 ## Data Structures and Algorithms: CSCI 230 (CofC: Fall 2019)
   Language: Java
-- List Abstract Data Type (ADT) Implementation (Not Yet Uploaded)
+- List Abstract Data Type (ADT) Implementation (Not Uploaded)
   - Implementation of an ordered singly linked list that uses arrays as a base data structure
-- List ADT Personalization and Algorithmic Analysis (Not Yet Uploaded)
+- List ADT Personalization and Algorithmic Analysis (Not Uploaded)
   - Further improvment upon the previous assignment with the additon of a palindrome detector/remover and use of algorithmic analysis.
+- Generic and Ordered Doubly Linked List (Not Uploaded)
+  - Implementation of a generic and ordered doubly linked list
+- Deque and Binary Search Tree Implementations (Not Uploaded)
+  - Implementation of a generic deque structure with push, pop, inject, and eject methods
+  - Implementation of a level-order traversal and a method to count nodes that have one child for a binary search tree
