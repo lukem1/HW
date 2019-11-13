@@ -41,4 +41,4 @@
   - Implementation of a generic deque structure with push, pop, inject, and eject methods
   - Implementation of a level-order traversal and a method to count nodes that have one child for a binary search tree
 - Ternary MinHeap and Heap Traversals (Not Uploaded)
-  - Implementation of an array based ternary minheap and a breadth first and depth first traversals
+  - Implementation of an array based ternary minheap and breadth first and depth first traversals
