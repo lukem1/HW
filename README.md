@@ -28,13 +28,18 @@
 
 ## Intro to Computer Organization and Assembly: CSCI 250 (CofC: Fall 2019)
   Languages: C and MIPS32 Assembly
-   
+- Compiling and Decompiling (Not Uploaded)
+  - Converting C to MIPS and vice versa
+- Assembling and Disassembling (Not Uploaded)
+  - Convering MIPS to machine code and vice versa
+  
 ## Data Structures and Algorithms: CSCI 230 (CofC: Fall 2019)
   Language: Java
 - List Abstract Data Type (ADT) Implementation (Not Uploaded)
   - Implementation of an ordered singly linked list that uses arrays as a base data structure
 - List ADT Personalization and Algorithmic Analysis (Not Uploaded)
-  - Further improvment upon the previous assignment with the additon of a palindrome detector/remover and use of algorithmic analysis.
+  - Further improvment upon the previous assignment with the additon of a palindrome detector/remover
+  - Performed algorithmic analysis to determine the theoretical and actual time complexities of methods
 - Generic and Ordered Doubly Linked List (Not Uploaded)
   - Implementation of a generic and ordered doubly linked list
 - Deque and Binary Search Tree Implementations (Not Uploaded)
