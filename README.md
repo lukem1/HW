@@ -55,4 +55,4 @@
   
 ## Computer and Network Security: CSCI 345 (CofC: Spring 2020)
   Languages: C++ and Python 3
-- Passwords amd Cryptography (Not Uploaded)
+- Passwords and Cryptography (Not Uploaded)
