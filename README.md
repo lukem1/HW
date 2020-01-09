@@ -49,3 +49,10 @@
   - Implementation of an array based ternary minheap and breadth first and depth first traversals
 - Hash Tables and Analysis (Not Uploaded)
   - Implementation of a hash table and three probing functions (Linear, Quadratic, and Pseudo-random) that were analyzed and compared
+
+## Operating Systems I: CSCI 340 (CofC: Spring 2020)
+  Language: C
+  
+## Computer and Network Security: CSCI 345 (CofC: Spring 2020)
+  Languages: C++ and Python 3
+- Passwords amd Cryptography (Not Uploaded)
