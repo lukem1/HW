@@ -53,6 +53,11 @@
 ## Operating Systems I: CSCI 340 (CofC: Spring 2020)
   Language: C
   
+  Projects in seperate repositories.
+  - Linux Process Tree
+    - Command line tool that reads information form the /proc/ filesystem and builds a process tree
+  
 ## Computer and Network Security: CSCI 345 (CofC: Spring 2020)
   Languages: C++ and Python 3
 - Passwords and Cryptography (Not Uploaded)
+  - Multithreaded password cracker that generates guesses using various rules
