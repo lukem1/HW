@@ -56,6 +56,6 @@
     - Command line tool that reads information form the /proc filesystem and displays a process tree
   
 ## Computer and Network Security: CSCI 345 (CofC: Spring 2020)
-  Languages: C++ and Python 3
+  Languages: C++ and Python 3 | Projects in seperate repositories.
 - Passwords and Cryptography ([PasswordCracker-345](https://github.com/lukem1/PasswordCracker-345))
   - Multiprocessed password cracker that generates guesses using various rules
