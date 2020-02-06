@@ -53,9 +53,9 @@
 ## Operating Systems I: CSCI 340 (CofC: Spring 2020)
   Language: C | Projects in seperate repositories.
   - Linux Process Tree ([ProcessTree-340](https://github.com/lukem1/ProcessTree-340))
-    - Command line tool that reads information form the /proc/ filesystem and builds a process tree
+    - Command line tool that reads information form the /proc filesystem and displays a process tree
   
 ## Computer and Network Security: CSCI 345 (CofC: Spring 2020)
   Languages: C++ and Python 3
-- Passwords and Cryptography (Not Uploaded)
-  - Multithreaded password cracker that generates guesses using various rules
+- Passwords and Cryptography ([PasswordCracker-345](https://github.com/lukem1/PasswordCracker-345))
+  - Multiprocessed password cracker that generates guesses using various rules
