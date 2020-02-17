@@ -35,19 +35,19 @@
   
 ## Data Structures and Algorithms: CSCI 230 (CofC: Fall 2019)
   Language: Java
-- List Abstract Data Type (ADT) Implementation (Not Uploaded)
+- List Abstract Data Type (ADT) Implementation
   - Implementation of an ordered singly linked list that uses arrays as a base data structure
-- List ADT Personalization and Algorithmic Analysis (Not Uploaded)
+- List ADT Personalization and Algorithmic Analysis
   - Further improvment upon the previous assignment with the additon of a palindrome detector/remover
   - Performed algorithmic analysis to determine the theoretical and actual time complexities of methods
-- Generic and Ordered Doubly Linked List (Not Uploaded)
+- Generic and Ordered Doubly Linked List
   - Implementation of a generic and ordered doubly linked list
-- Deque and Binary Search Tree Implementations (Not Uploaded)
+- Deque and Binary Search Tree Implementations
   - Implementation of a generic deque structure with push, pop, inject, and eject methods
   - Implementation of a level-order traversal and a method to count nodes that have one child for a binary search tree
-- Ternary MinHeap and Heap Traversals (Not Uploaded)
+- Ternary MinHeap and Heap Traversals
   - Implementation of an array based ternary minheap and breadth first and depth first traversals
-- Hash Tables and Analysis (Not Uploaded)
+- Hash Tables and Analysis
   - Implementation of a hash table and three probing functions (Linear, Quadratic, and Pseudo-random) that were analyzed and compared
 
 ## Operating Systems I: CSCI 340 (CofC: Spring 2020)
