@@ -51,9 +51,11 @@
   - Implementation of a hash table and three probing functions (Linear, Quadratic, and Pseudo-random) that were analyzed and compared
 
 ## Operating Systems I: CSCI 340 (CofC: Spring 2020)
-  Language: C | Projects in seperate repositories.
+  Language: C and Python 3 | Projects in seperate repositories.
   - Linux Process Tree ([ProcessTree-340](https://github.com/lukem1/ProcessTree-340))
     - Command line tool that reads information form the /proc filesystem and displays a process tree
+  - Linux Paging Simulator ([MemorySim-340](https://github.com/lukem1))
+    - Command line tool that simulates page based memory management on a round robin scheduler  
   
 ## Computer and Network Security: CSCI 345 (CofC: Spring 2020)
   Languages: C++ and Python 3 | Projects in seperate repositories.
