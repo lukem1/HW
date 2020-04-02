@@ -51,7 +51,7 @@
   - Implementation of a hash table and three probing functions (Linear, Quadratic, and Pseudo-random) that were analyzed and compared
 
 ## Operating Systems I: CSCI 340 (CofC: Spring 2020)
-  Language: C and Python 3 | Projects in [OperatingSystems](https://github.com/lukem1/OperatingSystems) repository.
+  Language: C, Go, and Python 3 | Projects in [OperatingSystems](https://github.com/lukem1/OperatingSystems) repository.
   - Linux Process Tree
     - Command line tool that reads information form the /proc filesystem and displays a process tree
   - Linux Paging Simulator
