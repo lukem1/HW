@@ -1,4 +1,4 @@
-# Programming Homework (HW)
+# Programming Coursework (HW)
 
 ## Programming I: CSCI 220 + 220 Lab (CofC: Fall 2018)
   Language: Python 3
@@ -61,3 +61,17 @@
   Languages: C++ and Python 3 | Projects in seperate repositories.
 - Passwords and Cryptography ([PasswordCracker-345](https://github.com/lukem1/PasswordCracker-345))
   - Multiprocessed password cracker that generates guesses using various rules
+  
+## Database Concepts: CSCI 332 (CofC: Fall 2020)
+  Language: SQL | In Progress, Not Uploaded
+- Relational Algebra
+- Tuple Calculus
+- SQL Queries
+
+## Advanced Algorithms: CSCI 310 (CofC: Fall 2020)
+  Language: Java | In Progress
+  
+## Software Engineering: CSCI 362 (CofC: Fall 2020)
+  Languages: Python, PHP | In Progress
+  - [Course Blog](https://lukem1.github.io/tags/CSCI362/)
+  - Term Project (currently in private repo)
