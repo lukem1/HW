@@ -69,9 +69,10 @@
 - SQL Queries
 
 ## Advanced Algorithms: CSCI 310 (CofC: Fall 2020)
-  Language: Java | In Progress
+  Language: Java | In Progress, Not Uploaded
+  - Graph ADT
   
 ## Software Engineering: CSCI 362 (CofC: Fall 2020)
   Languages: Python, PHP | In Progress
-  - [Course Blog](https://lukem1.github.io/tags/CSCI362/)
+  - [Software Engineering Blog](https://lukem1.github.io/tags/CSCI362/)
   - Term Project (currently in private repo)
