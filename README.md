@@ -24,7 +24,7 @@
 - Enigma Machine
   - Command line enigma machine implementation
 - Word Ladder
-  - Command line tool for finding word ladders between two english words
+  - Command line tool for finding "word ladders" between two english words
 
 ## Intro to Computer Organization and Assembly: CSCI 250 (CofC: Fall 2019)
   Languages: C and MIPS32 Assembly
@@ -51,7 +51,7 @@
   - Implementation of a hash table and three probing functions (Linear, Quadratic, and Pseudo-random) that were analyzed and compared
 
 ## Operating Systems I: CSCI 340 (CofC: Spring 2020)
-  Language: C, Go, and Python 3 | Projects in [OperatingSystems](https://github.com/lukem1/OperatingSystems) repository.
+  Languages: C, Go, and Python 3 | Projects in [OperatingSystems](https://github.com/lukem1/OperatingSystems) repository.
   - Linux Process Tree
     - Command line tool that reads information form the /proc filesystem and displays a process tree
   - Linux Paging Simulator
@@ -75,6 +75,6 @@
     - Implementatin of Kosaraju's algorithm for computing strongly connected components
   
 ## Software Engineering: CSCI 362 (CofC: Fall 2020)
-  Languages: Python, PHP | In Progress
+  Languages: Python 3, PHP | In Progress
   - [Software Engineering Blog](https://lukem1.github.io/tags/CSCI362/)
   - Term Project (currently in private repo)
