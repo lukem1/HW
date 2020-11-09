@@ -71,6 +71,8 @@
 ## Advanced Algorithms: CSCI 310 (CofC: Fall 2020)
   Language: Java | In Progress, Not Uploaded
   - Graph ADT
+    - Implementation of a Graph ADT using an adjacency matrix
+    - Implementatin of Kosaraju's algorithm for computing strongly connected components
   
 ## Software Engineering: CSCI 362 (CofC: Fall 2020)
   Languages: Python, PHP | In Progress
