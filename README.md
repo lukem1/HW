@@ -2,7 +2,6 @@
 
 ## Programming I: CSCI 220 + 220 Lab (CofC: Fall 2018)
   Language: Python 3
-  
   All GUI based work requires [John Zelle's graphics.py](https://mcsp.wartburg.edu/zelle/python/) along with Tkinter
 - Thanksgiving Card
    - Graphical Thanksgiving card
@@ -27,10 +26,10 @@
   - Command line tool for finding "word ladders" between two english words
 
 ## Intro to Computer Organization and Assembly: CSCI 250 (CofC: Fall 2019)
-  Languages: C and MIPS32 Assembly
-- Compiling and Decompiling (Not Uploaded)
+  Languages: C and MIPS32 Assembly | Not Uploaded
+- Compiling and Decompiling
   - Converting C to MIPS and vice versa
-- Assembling and Disassembling (Not Uploaded)
+- Assembling and Disassembling
   - Convering MIPS to machine code and vice versa
   
 ## Data Structures and Algorithms: CSCI 230 (CofC: Fall 2019)
@@ -55,7 +54,9 @@
   - Linux Process Tree
     - Command line tool that reads information form the /proc filesystem and displays a process tree
   - Linux Paging Simulator
-    - Command line tool that simulates page based memory management on a round robin scheduler  
+    - Command line tool that simulates page based memory management on a round robin scheduler
+  - MultiServerQueue
+  	- Single producer/multiple consumer queue implementation
   
 ## Computer and Network Security: CSCI 345 (CofC: Spring 2020)
   Languages: C++ and Python 3 | Projects in seperate repositories.
@@ -63,18 +64,28 @@
   - Multiprocessed password cracker that generates guesses using various rules
   
 ## Database Concepts: CSCI 332 (CofC: Fall 2020)
-  Language: SQL | In Progress, Not Uploaded
+  Language: SQL | Not Uploaded
 - Relational Algebra
 - Tuple Calculus
 - SQL Queries
 
 ## Advanced Algorithms: CSCI 310 (CofC: Fall 2020)
-  Language: Java | In Progress, Not Uploaded
+  Language: Java
   - Graph ADT
     - Implementation of a Graph ADT using an adjacency matrix
     - Implementatin of Kosaraju's algorithm for computing strongly connected components
   
 ## Software Engineering: CSCI 362 (CofC: Fall 2020)
-  Languages: Python 3, PHP | In Progress
+  Languages: Python 3, PHP, Bash
   - [Software Engineering Blog](https://lukem1.github.io/tags/CSCI362/)
   - Term Project (currently in private repo)
+  	- Designed and implemented an automated testing framework for an open source project
+  	
+## Programming Language Concepts: CSCI 320 (CofC: Spring 2021)
+  Future Course
+  
+## Digital Logic and Computer Organization: CSCI 350 (CofC: Spring 2021)
+  Future Course
+  
+## Software Engineering Practicum: CSCI 462 (CofC: Spring 2021)
+  Future Course
