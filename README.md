@@ -79,14 +79,14 @@
 ## Software Engineering: CSCI 362 (CofC: Fall 2020)
   Languages: Python 3, PHP, Bash
   - [Software Engineering Blog](https://lukem1.github.io/tags/CSCI362/)
-  - Term Project (currently in private repo)
+  - [Term Project](https://github.com/csci-362-02-2020/New-Leaf)
   	- Designed and implemented an automated testing framework for an open source project
   	
 ## Programming Language Concepts: CSCI 320 (CofC: Spring 2021)
-  Future Course
+  In Progress
   
 ## Digital Logic and Computer Organization: CSCI 350 (CofC: Spring 2021)
-  Future Course
+  In Progress
   
 ## Software Engineering Practicum: CSCI 462 (CofC: Spring 2021)
-  Future Course
+  In Progress
