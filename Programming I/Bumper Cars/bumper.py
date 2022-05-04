@@ -1,5 +1,5 @@
 ##
-## Name: Luke M
+## Name: lukem1
 ## bumper.py
 ##
 ## Purpose: Bumper cars simulation

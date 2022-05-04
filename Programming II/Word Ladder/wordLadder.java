@@ -1,6 +1,6 @@
 //
 //	wordLadder.java
-//	Luke M
+//	lukem1
 //	April 11 2019
 //
 

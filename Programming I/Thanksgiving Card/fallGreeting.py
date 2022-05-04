@@ -1,5 +1,5 @@
 ##
-## Name: Luke M
+## Name: lukem1
 ## fallGreeting.py
 ##
 ## Purpose: Display an animated Thanksgiving card.

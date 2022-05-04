@@ -1,5 +1,5 @@
 ##
-## Name: Luke M
+## Name: lukem1
 ## TicTacToe.py
 ##
 ## Purpose: Two player tic tac toe game

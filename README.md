@@ -83,10 +83,23 @@
   	- Designed and implemented an automated testing framework for an open source project
   	
 ## Programming Language Concepts: CSCI 320 (CofC: Spring 2021)
-  In Progress
+  Languages: Scheme, SML, Prolog, C
+  Topics included imperitive and declarative programming, language theory, as well as programming language translation.
   
 ## Digital Logic and Computer Organization: CSCI 350 (CofC: Spring 2021)
-  In Progress
+  Topics included boolean logic, sequential circuits, and CPU architecture.
   
 ## Software Engineering Practicum: CSCI 462 (CofC: Spring 2021)
-  In Progress
+  Contributions to the [Zulip](https://github.com/zulip/zulip) project.
+
+## Data Mining: CSCI 334 (CofC Spring 2022)
+  Language: Python (Pandas, scikit-learn)
+  Topics included a variety of supervised and unsupervised learning techniques such as artificial neural networks, decision trees, nearest neighbor classifiers, k-means clustering, support vector machines, etc.
+  - [Malicious Domain Classification](https://github.com/lukem1/malicious-domain-classification)
+
+
+## Mobile Application Development: CSCI 370 (Spring 2022)
+  Language: Java
+  Android development topics included application lifecycles, persistent data solutions, cloud platform integrations, etc.
+  - [Odin](https://github.com/CSCI-370-Spring-2022/team-5) (Private)
+    - Android app which implements cross platform search over services including GitHub and GitLab

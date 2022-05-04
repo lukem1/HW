@@ -1,5 +1,5 @@
 ##
-## Name: Luke M
+## Name: lukem1
 ## 3doorsGame.py
 ##
 ## Purpose: Graphical Guessing Game

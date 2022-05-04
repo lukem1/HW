@@ -1,6 +1,6 @@
 //
 // HW1.java
-// Luke M
+// lukem1
 // September 5 2019
 //
 

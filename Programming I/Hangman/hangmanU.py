@@ -1,5 +1,5 @@
 ##
-## Name: Luke M
+## Name: lukem1
 ## hangman.py
 ##
 ## Purpose: Hangman Game

@@ -1,6 +1,6 @@
 //
 // MinHeap.java
-// Luke M
+// lukem1
 // November 5 2019
 //
 

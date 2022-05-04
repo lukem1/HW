@@ -1,6 +1,6 @@
 //
 // deque.java
-// Luke M
+// lukem1
 // October 24 2019
 //
 

@@ -1,5 +1,5 @@
 ##
-## Name: Luke M
+## Name: lukem1
 ## vigenere.py
 ##
 ## Purpose: Encode text with the Vignere chiper
